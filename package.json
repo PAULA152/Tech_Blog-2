@@ -1,7 +1,7 @@
 {
   "name": "tech_blog-2",
   "version": "1.0.0",
-  "description": "![techblog](https://user-images.githubusercontent.com/99390832/173087386-c07084bd-e929-4c6a-a54a-8aa2f5629807.PNG)",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -20,13 +20,5 @@
     "express-session": "^1.17.1",
     "mysql2": "^2.2.5",
     "sequelize": "^6.20.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/PAULA152/Tech_Blog-2.git"
-  },
-  "bugs": {
-    "url": "https://github.com/PAULA152/Tech_Blog-2/issues"
-  },
-  "homepage": "https://github.com/PAULA152/Tech_Blog-2#readme"
+  }
 }
